@@ -9,6 +9,11 @@ No diretório do teste, use o comando (requer NodeJs já instalado)
 ```bash
 npm i
 ```
+após a instalação, para iniciar a API:
+
+```bash
+npm start
+```
 
 ## Usage
 
