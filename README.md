@@ -27,7 +27,7 @@ para obter a hash de um determinado game:
 
 para obter o ranking:
 
->http://localhost:3000/ranking
+>http://localhost:3000/gamelog/ranking
 
 
 ## Autor
